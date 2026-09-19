@@ -1,0 +1,16 @@
+Dr. Jordan Lee
+Computer Science | Office: TECH 108
+
+CLASS SCHEDULE
+CS 315     Database Systems         Wednesday                5:00 PM to 7:30 PM  TECH 313
+CS 340     Software Engineering     Tuesday & Thursday       1:00 PM to 2:15 PM  TECH 205
+ITEC 210   Systems Fundamentals     Monday & Wednesday       9:30 AM to 10:45 AM  TECH 108
+
+OFFICE HOURS
+Monday     10:45 AM - 1:00 PM (ITEC 210)
+Tuesday    2:15 PM - 4:30 PM (CS 340)
+Wednesday  10:45 AM - 1:00 PM (ITEC 210)
+Wednesday  3:00 PM - 5:00 PM (CS 315)
+
+NOTE: Instructors are not to be interrupted during class times.
+
