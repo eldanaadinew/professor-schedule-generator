@@ -1,0 +1,2 @@
+# lecturer|department|office|required_hours|availability|courses_taught
+Dr. Jordan Lee|Computer Science|TECH 108|8.75|Monday=10:45-13:00;Tuesday=14:15-16:30;Wednesday=10:45-13:00,15:00-17:00|CS 315,CS 340,ITEC 210
