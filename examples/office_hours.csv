@@ -1,0 +1,5 @@
+Faculty,Department,Office,Day,Start,End,Related Course
+"Dr. Jordan Lee","Computer Science","TECH 108",Monday,10:45,13:00,"ITEC 210"
+"Dr. Jordan Lee","Computer Science","TECH 108",Tuesday,14:15,16:30,"CS 340"
+"Dr. Jordan Lee","Computer Science","TECH 108",Wednesday,10:45,13:00,"ITEC 210"
+"Dr. Jordan Lee","Computer Science","TECH 108",Wednesday,15:00,17:00,"CS 315"
