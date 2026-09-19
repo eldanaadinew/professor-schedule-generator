@@ -1,0 +1,23 @@
+# Compiled objects and libraries
+build/
+bin/
+lib/
+*.o
+*.a
+*.out
+
+# Generated working output
+output/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
