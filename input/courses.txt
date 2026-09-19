@@ -1,0 +1,4 @@
+# course_code|course_title|lecturer|days|start_time|end_time|room
+CS 315|Database Systems|Dr. Jordan Lee|Wednesday|17:00|19:30|TECH 313
+CS 340|Software Engineering|Dr. Jordan Lee|Tuesday,Thursday|13:00|14:15|TECH 205
+ITEC 210|Systems Fundamentals|Dr. Jordan Lee|Monday,Wednesday|09:30|10:45|TECH 108
