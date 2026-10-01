@@ -2,6 +2,10 @@
 
 A modular C application that reads course and faculty availability data, validates scheduling constraints, and generates teaching schedules and office-hour plans in text, CSV, and optional Microsoft Word formats.
 
+## Project coordination and delivery
+
+Course and faculty input validation, conflict checks, reusable C library, and CSV/text/optional Word deliverables. Demonstrates schedule planning, requirements checking, and deliverable verification.
+
 ## Project highlights
 
 - Parses two structured, pipe-delimited input files instead of relying on hard-coded schedules.
