@@ -4,10 +4,6 @@ A modular C application that reads course and faculty availability data, validat
 
 ## Project coordination and delivery
 
-Course and faculty input validation, conflict checks, reusable C library, and CSV/text/optional Word deliverables. Demonstrates schedule planning, requirements checking, and deliverable verification.
-
-## Project coordination and delivery
-
 **Planning and scheduling:** Translated course assignments and faculty availability into scheduling requirements, with conflict checks and office-hour coverage.
 
 **Implementation and deliverables:** Organized modular C components, a static library, Make-based builds, and CSV, text, and optional Word outputs.
